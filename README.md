@@ -33,7 +33,7 @@ Key features include:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/z80/uv-mode.git
+   git clone https://github.com/z80dev/uv-mode.git
    ```
 
 2. Add the following to your Emacs configuration:

@@ -7,7 +7,7 @@
 ;; Created: December 13, 2024
 ;; Modified: December 13, 2024
 ;; Version: 0.0.1
-;; Homepage: https://github.com/z80/uv-mode
+;; Homepage: https://github.com/z80dev/uv-mode
 ;; Package-Requires: ((emacs "25.1") (pythonic "0.1.0"))
 ;;
 ;; This file is not part of GNU Emacs.
